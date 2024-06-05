@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: da2050d5b986dc04e814220e0f2f5342
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Group056
+    100002: Plane001
+    100004: Plane009
+    100006: Plane017
+    100008: Plane018
+    100010: Plane019
+    100012: Plane021
+    100014: Plane022
+    100016: Plane023
+    100018: Plane024
+    100020: Plane025
+    100022: Plane026
+    100024: Plane027
+    100026: Plane028
+    100028: Plane029
+    100030: Plane305
+    100032: Rectangle013
+    100034: Rectangle016
+    100036: Rectangle017
+    100038: //RootNode
+    400000: Group056
+    400002: Plane001
+    400004: Plane009
+    400006: Plane017
+    400008: Plane018
+    400010: Plane019
+    400012: Plane021
+    400014: Plane022
+    400016: Plane023
+    400018: Plane024
+    400020: Plane025
+    400022: Plane026
+    400024: Plane027
+    400026: Plane028
+    400028: Plane029
+    400030: Plane305
+    400032: Rectangle013
+    400034: Rectangle016
+    400036: Rectangle017
+    400038: //RootNode
+    2100000: No Name
+    2100002: 'Material #45'
+    2100004: 'Material #35'
+    2100006: Color_001
+    2100008: Vegetation_Grass_Artificial
+    2300000: Plane001
+    2300002: Plane009
+    2300004: Plane017
+    2300006: Plane018
+    2300008: Plane019
+    2300010: Plane021
+    2300012: Plane022
+    2300014: Plane023
+    2300016: Plane024
+    2300018: Plane025
+    2300020: Plane026
+    2300022: Plane027
+    2300024: Plane028
+    2300026: Plane029
+    2300028: Plane305
+    2300030: Rectangle013
+    2300032: Rectangle016
+    3300000: Plane001
+    3300002: Plane009
+    3300004: Plane017
+    3300006: Plane018
+    3300008: Plane019
+    3300010: Plane021
+    3300012: Plane022
+    3300014: Plane023
+    3300016: Plane024
+    3300018: Plane025
+    3300020: Plane026
+    3300022: Plane027
+    3300024: Plane028
+    3300026: Plane029
+    3300028: Plane305
+    3300030: Rectangle013
+    3300032: Rectangle016
+    4300000: Rectangle013
+    4300002: Plane305
+    4300004: Plane001
+    4300006: Plane009
+    4300008: Plane017
+    4300010: Plane018
+    4300012: Rectangle016
+    4300014: Plane019
+    4300016: Plane021
+    4300018: Plane022
+    4300020: Plane023
+    4300022: Plane024
+    4300024: Plane025
+    4300026: Plane026
+    4300028: Plane027
+    4300030: Plane028
+    4300032: Plane029
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_001
+    second: {fileID: 2100000, guid: 2dd080cd0b4f64749a5d93d5b806770c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: 3dda219a373c40e468738740c02230dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 64eb042f3906bc641ad514eeec9a95a6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

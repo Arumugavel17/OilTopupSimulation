@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: f688fea2459dbc1438f830220b0b4c56
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A320NEO-D1
+    second: {fileID: 2100000, guid: 4652de43edc8d6f42ad2a0ec5c068b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A320NEO-D1 GLASS
+    second: {fileID: 2100000, guid: 2199e0d8bd5a0d540a81e44684ce5198, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A320NEO-D2
+    second: {fileID: 2100000, guid: a43953fb781c8c244aa656b1d6bde784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A320NEO-D2 GLASS
+    second: {fileID: 2100000, guid: 14022bd33c4cb804b90e3a039943fc0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A320NEO-D3
+    second: {fileID: 2100000, guid: 9546bd9754ac3384a80f7aa18d8abd34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A320NEO-D3 GLASS
+    second: {fileID: 2100000, guid: c1bc5bbf79a9e054d97ab41ce154a52e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A320NEO-D4
+    second: {fileID: 2100000, guid: e642e2864b26db040973a7d5e7df0d43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A320NEO-D5
+    second: {fileID: 2100000, guid: 8771f4aecc49a4448ae0c94afcc5f3e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A320NEO-D5 GLASS
+    second: {fileID: 2100000, guid: 6b50cb87533f0234992f81e49e2f4d57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A320NEO-D6
+    second: {fileID: 2100000, guid: dad7adb7377a1754c8925e2e8dd4c0e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A320NEO-D7
+    second: {fileID: 2100000, guid: 633ea45f950520c48a4159a4f6a437b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A320NEO-D7 GLASS
+    second: {fileID: 2100000, guid: 36a0214c20ccb8f4f80646f286b4b6a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aft Avionics
+    second: {fileID: 2100000, guid: 3128c5d9ee45b5c48a79e34abc1b79c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AntiCollisionLight
+    second: {fileID: 2100000, guid: 9266054f66a706c43a72d1f29c52f009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ApudoorLatched
+    second: {fileID: 2100000, guid: e5bf918e86f29f74a9006952774e2c4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AvionicsVentair
+    second: {fileID: 2100000, guid: 9135886c6db6bda4288dde1d7d47ab22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cargo DoorSelectorPannel
+    second: {fileID: 2100000, guid: 95987bc2311ce674aaa33ddc39ccb3d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FuelPAnel
+    second: {fileID: 2100000, guid: d6cab33572ca78041954fb475f5732d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Groundhydraulicconnecton
+    second: {fileID: 2100000, guid: dde287f2077a5ca49acb1e0a0b01a26a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Highlights
+    second: {fileID: 2100000, guid: a53e3c40a88ac8a468ed602264ba3765, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HpGround Connection
+    second: {fileID: 2100000, guid: 7d3736cc2e679704a9a1e93c5aa176fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LpGround Connection
+    second: {fileID: 2100000, guid: 518309f9e371ffb4db60b2b5dc8158f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAgnetic FuelLevel
+    second: {fileID: 2100000, guid: 943afd459ae7b434aa7563a266ad38a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1
+    second: {fileID: 2100000, guid: 423c1a3b23bc46b4581318f09b92f96c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #15
+    second: {fileID: 2100000, guid: 4ebfca70bb8f52f469cc47243a225439, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #16
+    second: {fileID: 2100000, guid: 07682cb61c36f1045b831fd89c02a2f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #17
+    second: {fileID: 2100000, guid: a5227abfe3aa598458f5632bc78ee83e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #2
+    second: {fileID: 2100000, guid: 3a72888c711397c46999cf10d84e08b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #3
+    second: {fileID: 2100000, guid: f155df1b2f4d59040b5492e298f78a10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilCoolerOutlet
+    second: {fileID: 2100000, guid: 37df9a419183ee64daf037fd71fc66ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Portable Water Drains_Panel
+    second: {fileID: 2100000, guid: f173634b58d316d45b2272643c636ea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Portable water Drain
+    second: {fileID: 2100000, guid: 226d5ebdbb2205144996a22946189d30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RA Antennas
+    second: {fileID: 2100000, guid: 0fb9693b89e38c1489816a15d6142ac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToiletServiceAccessDoor
+    second: {fileID: 2100000, guid: 8f6d04037d19f5347b1a5ec77039598a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AB1
+    second: {fileID: 2800000, guid: 1ca31d33c4b2dcb45be86ec891d20b47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AB2
+    second: {fileID: 2800000, guid: e80851a41eba49e45b2164d04f0a188a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AB3
+    second: {fileID: 2800000, guid: 3643b3ea0f001b340bead4c5ca2747c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AB4
+    second: {fileID: 2800000, guid: 4e761f84af3590c4989dc4dbe0599310, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AB5
+    second: {fileID: 2800000, guid: db65c4be43e4b1d46a52ee0afb9b3490, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AB6
+    second: {fileID: 2800000, guid: a61193972d2222d4e82d85d6c10a42a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AB7
+    second: {fileID: 2800000, guid: cfa1c0de289fdaf4a9e30e2ebd85394d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AD1
+    second: {fileID: 2800000, guid: 558d69544a9741e4289e985889501da8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AD2
+    second: {fileID: 2800000, guid: f02389e743e93a94e984b6377f0cc684, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AD3
+    second: {fileID: 2800000, guid: 176a1b0a6df77e94898e28b902cad516, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AD4
+    second: {fileID: 2800000, guid: e0130fbf6b1e3bd418da2cdee6cd5e49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AD5
+    second: {fileID: 2800000, guid: 5eae9182b02ba924680098cf7fa8e921, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AD6
+    second: {fileID: 2800000, guid: 6801403c507a42544ae03d1d77454bff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AD7
+    second: {fileID: 2800000, guid: 91124b6d43514544c853d51e06bce206, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AR
+    second: {fileID: 2800000, guid: 592f083ea215ec146b16da9556ee5576, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AS1
+    second: {fileID: 2800000, guid: 9bbcc9d25077fe848a8c5f7f28bcfc4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AS2
+    second: {fileID: 2800000, guid: 539927fa8d6b2cf4c84555afe88b8767, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AS3
+    second: {fileID: 2800000, guid: 01e4bc855df36464d8cfcaa128b5ba0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AS4
+    second: {fileID: 2800000, guid: 74d7bfd5cc24bd44192b0b33bd33e353, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AS5
+    second: {fileID: 2800000, guid: adf40de52c10c5e49a2ea63bc0028d3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AS6
+    second: {fileID: 2800000, guid: a4af7936e73164643948039a525c7830, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: A320AS7
+    second: {fileID: 2800000, guid: d7f834b4d1e5df34184dda76f6444077, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Aft Avionics CompartmentDoor
+    second: {fileID: 2800000, guid: f5cadd82c96adcb4895f839dc0296161, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ApuAirCoolerAirOutlet_D
+    second: {fileID: 2800000, guid: eb2ebc3d6e8169e448095fdb2cb84972, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ApuAirCoolerAirOutlet_O
+    second: {fileID: 2800000, guid: 017f31098f6d983489a69fd58ce9b01b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Avionics Vent air outlet_D
+    second: {fileID: 2800000, guid: cb84a2fbaf4c0d042ba8a1574badf40d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Avionics Vent air outlet_O
+    second: {fileID: 2800000, guid: c350b8ba93dc9be4891dafc8bb2352ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CornerHighlight_D
+    second: {fileID: 2800000, guid: 827f4ee04476efc4fbbd703ffd5db714, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CornerHighlight_O
+    second: {fileID: 2800000, guid: d491dbe1816d5794cb5838e9828c0120, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Electrical CompartmentDoor
+    second: {fileID: 2800000, guid: e2031f5f8e0b53e48a2652f7b97f65f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ground Electrical
+    second: {fileID: 2800000, guid: 922a0689cd3089e4aa3c3899544484a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ground Electrical_O
+    second: {fileID: 2800000, guid: c8b290b322b25f34ea1a17bd5901965d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HP Ground Connection Door_D
+    second: {fileID: 2800000, guid: 33a05754efebfa940935937c2821aec0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HP Ground Connection Door_O
+    second: {fileID: 2800000, guid: 43c9800950b0df842872506e4f49734b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lp Ground Connection Door D
+    second: {fileID: 2800000, guid: ec1ac2e3a4b087c4b810de7d67f39db5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lp Ground Connection Door O
+    second: {fileID: 2800000, guid: 2005fdb60f5bfc842a071c8c99f446c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Magnetic FuelLevel_D
+    second: {fileID: 2800000, guid: c54260521d9132c4ea5b7116980933f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Magnetic FuelLevel_O
+    second: {fileID: 2800000, guid: 27ca87bb310b06743b20df66ee616619, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Oxygen-bay_D
+    second: {fileID: 2800000, guid: 136b73ecd444b8f429c21e66bd882264, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Oxygen-bay_O
+    second: {fileID: 2800000, guid: c82f2fb3187e7a5489b7c80392c8309b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Portable Water Drains panel_D
+    second: {fileID: 2800000, guid: 441e47b6bf7ed7a4e9017c5225a1b798, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Portable Water Drains panel_O
+    second: {fileID: 2800000, guid: 933b91b235fb292498ca070b040306f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Portable Water Drains_D
+    second: {fileID: 2800000, guid: 366617c5525a21e4eba358f508776fe0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Portable Water Drains_O
+    second: {fileID: 2800000, guid: c9d1ae00cfca4c24399b6e75db90bd55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wheel_Stopper_albedo
+    second: {fileID: 2800000, guid: a06ff1f763cd53a4284f21cef75894f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wheel_Stopper_metallic
+    second: {fileID: 2800000, guid: 2b69cfc26eb086241887fd1dfa6584c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wheel_Stopper_normal
+    second: {fileID: 2800000, guid: 799d9ee6df1e400468d1abe1983443a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wheel_Stopperl_AO
+    second: {fileID: 2800000, guid: ea3965433bf7a7d4a9ddb7a90f1e8b76, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

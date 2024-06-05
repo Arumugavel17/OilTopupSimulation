@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4767252955213728796
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4767252955213728797}
+  - component: {fileID: 4767252955213728787}
+  - component: {fileID: 4767252955213728786}
+  m_Layer: 0
+  m_Name: London Heathrow Airport Control Tower_001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &4767252955213728797
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4767252955213728796}
+  m_LocalRotation: {x: -0.706847, y: -0.019167839, z: -0.019167839, w: 0.706847}
+  m_LocalPosition: {x: 177.2, y: 2.5000024, z: -335.2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: -3.107}
+--- !u!33 &4767252955213728787
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4767252955213728796}
+  m_Mesh: {fileID: -8263759801683776031, guid: 0f1075320caaddc4ca8b5ff65ff0c9ce, type: 3}
+--- !u!23 &4767252955213728786
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4767252955213728796}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a684f5826aaeae54fb2e7227a3c25d16, type: 2}
+  - {fileID: 2100000, guid: 15ccfa35693e9ef4c9155e131e7e9fe8, type: 2}
+  - {fileID: 2100000, guid: 884c029038d1fc84dbbe97d766809cd9, type: 2}
+  - {fileID: 2100000, guid: f1b3ece50dfd45248989eabd0213bb1c, type: 2}
+  - {fileID: 2100000, guid: ad27cced0726b8649900b3346c015bd5, type: 2}
+  - {fileID: 2100000, guid: ebc162210ddb55949a49dfc3813280bf, type: 2}
+  - {fileID: 2100000, guid: d03526cf474666c40ac6a23255443576, type: 2}
+  - {fileID: 2100000, guid: 817d7fbc2ee438440a3999765b20d211, type: 2}
+  - {fileID: 2100000, guid: 9fc866a307b56bb46ad53f3e760c437a, type: 2}
+  - {fileID: 2100000, guid: 584c6c76aca070e4299c8f733e8052fa, type: 2}
+  - {fileID: 2100000, guid: 88c6c347e478158418c6ea49c0e3d7ac, type: 2}
+  - {fileID: 2100000, guid: a102649b23af4f74584e6938b14b4a74, type: 2}
+  - {fileID: 2100000, guid: 50f3c7ecde7410941a34abdcba0ed437, type: 2}
+  - {fileID: 2100000, guid: b5ded9e1864d84f48adad5d535b6109d, type: 2}
+  - {fileID: 2100000, guid: 4fa0a646fcd5ad142ab2b347b0b86a7f, type: 2}
+  - {fileID: 2100000, guid: 8af08ba15d60abb4391a07d35c652b89, type: 2}
+  - {fileID: 2100000, guid: 9cac35bfc2721b848b8470b688486331, type: 2}
+  - {fileID: 2100000, guid: 8b61bd9aac3d22045b1907015c15738d, type: 2}
+  - {fileID: 2100000, guid: 7e3d96640bbe11c41852a5c0457f0366, type: 2}
+  - {fileID: 2100000, guid: 06e676bbc383e0141867b2ac7f66c710, type: 2}
+  - {fileID: 2100000, guid: 9afcd5c0a366625438448307860174b0, type: 2}
+  - {fileID: 2100000, guid: 812ce8b736f7e50419919d0811ccfa1f, type: 2}
+  - {fileID: 2100000, guid: 3194d4f341f43eb4f9fbb0e5cb428e68, type: 2}
+  - {fileID: 2100000, guid: 62550269d15a22848934bee4914d9810, type: 2}
+  - {fileID: 2100000, guid: a71daacad585006439d2bde4dc5c05d2, type: 2}
+  - {fileID: 2100000, guid: 8197ce08a77e13c4e90c491065a26542, type: 2}
+  - {fileID: 2100000, guid: 3f267d0437b351945b172fb83abc0d86, type: 2}
+  - {fileID: 2100000, guid: 5c5b3eab379065b4588d3efe0ac91ebd, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}

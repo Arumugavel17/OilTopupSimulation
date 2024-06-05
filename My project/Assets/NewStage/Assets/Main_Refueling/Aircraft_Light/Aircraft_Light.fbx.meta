@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: e4f6550e998e1444aa35af427b591ae2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Base-Flange3
+    100004: Boss-Extrude1
+    100006: Boss-Extrude12
+    100008: Boss-Extrude2
+    100010: CirPattern1
+    100012: CirPattern1 1
+    100014: Cut-Extrude1
+    100016: Cut-Extrude1 1
+    100018: Cut-Extrude3
+    100020: Cut-Extrude4
+    100022: Cut-Extrude8
+    100024: NONE
+    100026: Shell1
+    100028: Thread1
+    400000: //RootNode
+    400002: Base-Flange3
+    400004: Boss-Extrude1
+    400006: Boss-Extrude12
+    400008: Boss-Extrude2
+    400010: CirPattern1
+    400012: CirPattern1 1
+    400014: Cut-Extrude1
+    400016: Cut-Extrude1 1
+    400018: Cut-Extrude3
+    400020: Cut-Extrude4
+    400022: Cut-Extrude8
+    400024: NONE
+    400026: Shell1
+    400028: Thread1
+    2100000: body
+    2100002: Crome
+    2100004: Light and gear
+    2300000: Base-Flange3
+    2300002: Boss-Extrude1
+    2300004: Boss-Extrude12
+    2300006: Boss-Extrude2
+    2300008: CirPattern1
+    2300010: CirPattern1 1
+    2300012: Cut-Extrude1
+    2300014: Cut-Extrude1 1
+    2300016: Cut-Extrude3
+    2300018: Cut-Extrude4
+    2300020: Cut-Extrude8
+    2300022: NONE
+    2300024: Shell1
+    2300026: Thread1
+    3300000: Base-Flange3
+    3300002: Boss-Extrude1
+    3300004: Boss-Extrude12
+    3300006: Boss-Extrude2
+    3300008: CirPattern1
+    3300010: CirPattern1 1
+    3300012: Cut-Extrude1
+    3300014: Cut-Extrude1 1
+    3300016: Cut-Extrude3
+    3300018: Cut-Extrude4
+    3300020: Cut-Extrude8
+    3300022: NONE
+    3300024: Shell1
+    3300026: Thread1
+    4300000: Shell1
+    4300002: Cut-Extrude8
+    4300004: Cut-Extrude1
+    4300006: Thread1
+    4300008: Cut-Extrude1
+    4300010: CirPattern1
+    4300012: CirPattern1
+    4300014: Base-Flange3
+    4300016: Cut-Extrude4
+    4300018: Boss-Extrude2
+    4300020: Boss-Extrude1
+    4300022: Cut-Extrude3
+    4300024: NONE
+    4300026: Boss-Extrude12
+    7400000: idle
+    7400002: open
+    7400004: close
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crome
+    second: {fileID: 2100000, guid: da47e876ceb5a484caf77d839f107ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light and gear
+    second: {fileID: 2100000, guid: b36b02404e30a3248936a3cbc73a84b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 6e4ff8d68e1c4bb499eb82c49f6f7bef, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Crome_albedo
+    second: {fileID: 2800000, guid: 3dfd7ad2577674f43bf2515f13afe2a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Crome_metallic
+    second: {fileID: 2800000, guid: 1842ca1bcb267684ab40f3a0bb7e8f81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Crome_normal
+    second: {fileID: 2800000, guid: 7bcb0f092d063cc49a8bbd4fef7e5860, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Crome_roughness
+    second: {fileID: 2800000, guid: 6bd5e988b4fc8234baccd13493779495, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Light_AO
+    second: {fileID: 2800000, guid: e5cad991cedc13248b04ab41bf074ae4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Light_albedo
+    second: {fileID: 2800000, guid: 2cc246e13ee71bc4489d64d6b35b67ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Light_emissive
+    second: {fileID: 2800000, guid: 41b05eadf242e1747bae9990662c3604, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Light_metallic
+    second: {fileID: 2800000, guid: 23a9b00d367b84d4aa38de498144b788, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Light_normal
+    second: {fileID: 2800000, guid: 67f0a86be87cacc42b935dad0caff258, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Light_roughness
+    second: {fileID: 2800000, guid: 0953865a23c923646b46dd8383eacd6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_AO
+    second: {fileID: 2800000, guid: 40e3324090a509a4f9f10f15ac5ef414, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_albedo
+    second: {fileID: 2800000, guid: 95d57854fb6e1134fa845e431895550c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_metallic
+    second: {fileID: 2800000, guid: c7fc1dbc805e85449a1e80118fd34641, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_normal
+    second: {fileID: 2800000, guid: 6e71952253b4f4444b1f5189f5b5d561, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: body_roughness
+    second: {fileID: 2800000, guid: 0f0245f6782265d4cb1c2c5951c8cdc8, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: open
+      takeName: open
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: close
+      takeName: close
+      firstFrame: 30
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1.27
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
